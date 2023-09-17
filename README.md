@@ -6,7 +6,7 @@
 **Команды в консоли:**
 
 ```
-docker push proffix4/tsn_java_for_docker_image
+docker pull proffix4/tsn_java_for_docker_image
 ```
 ```
 docker run -it proffix4/tsn_java_for_docker_image
